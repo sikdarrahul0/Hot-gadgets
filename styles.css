@@ -1,0 +1,48 @@
+.nav-link{
+    font-weight: 500;
+}
+nav li{
+    padding: 0 15px;
+}
+.buy-now{
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.carousel-indicators li {
+    background-color: gray; 
+}
+.carousel-indicators .active {
+    background-color: rgb(255, 187, 0);;
+}
+.slide{
+    margin-bottom: 100px;
+}
+.highlights{
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(255, 187, 0);
+}
+.highlights:hover{
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(255, 187, 0);
+}
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 8px grey;
+}
+.cat-orange{
+    width: 110px;
+    height: 10px;
+    border-radius: 30px;
+    background-color: rgb(255, 187, 0);
+}
+.cat-design{
+    border-radius: 10px;
+    box-shadow: 0 0 10px  grey;
+}
